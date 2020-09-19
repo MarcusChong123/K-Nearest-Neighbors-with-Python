@@ -18,3 +18,6 @@ In this tutorial, I will show you how to perform Machine learning with Python us
 
 You can also download the dataset at:
 https://www.kaggle.com/nareshbhat/health-care-data-set-on-heart-attack-possibility
+
+Youtube video:
+https://www.youtube.com/watch?v=_xfCq9mxrwM
