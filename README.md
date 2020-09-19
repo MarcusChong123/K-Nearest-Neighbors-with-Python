@@ -15,3 +15,6 @@ In this tutorial, I will show you how to perform Machine learning with Python us
 4. How to split the data into train and test data
 5. How to train the model and evaluate the model
 6. How to do prediction with using test data
+
+You can also download the dataset at:
+https://www.kaggle.com/nareshbhat/health-care-data-set-on-heart-attack-possibility
